@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="products.xsd">
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>999.99</price>
+        <description>Powerful laptop with great features.</description>
+    </product>
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>999.99</price>
+        <description>Powerful laptop with great features.</description>
+    </product>
+    <product>
+        <id>1</id>
+        <name>Laptop</name>
+        <price>999.99</price>
+        <description>Powerful laptop with great features.</description>
+    </product>
+</products>
